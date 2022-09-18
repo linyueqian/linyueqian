@@ -21,4 +21,4 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api?username=linyueqian&bg_color=0,fdbb2d,22c1c3&title_color=fff&text_color=fff" />
         </a>
     </div>
-    
+![Spotify recent playlist](https://spotify-recently-played-readme.vercel.app/api?user=31rjeh2d537ek2rx3udbc46akz6q)
