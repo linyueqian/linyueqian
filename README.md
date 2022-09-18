@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         </a>
     </div>
  <div>
-        <a href="https://open.spotify.com/user/31rjeh2d537ek2rx3udbc46akz6q?si=81286155229f44a4">
+        <a href="https://open.spotify.com/user/31rjeh2d537ek2rx3udbc46akz6q">
         <img style="align:center" src="https://spotify-recently-played-readme.vercel.app/api?user=31rjeh2d537ek2rx3udbc46akz6q" />
         </a>
     </div>
