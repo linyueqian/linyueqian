@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <div align="center">
     <div>
         <a href="https://coderstats.net/github/#linyueqian">
-        <img src="https://github-readme-stats.vercel.app/api?username=linyueqian&bg_color=0,fdbb2d,22c1c3&title_color=fff&text_color=fff&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=linyueqian&bg_color=0,fdbb2d,22c1c3&title_color=fff&text_color=fff&show_icons=true&count_private=true" />
         </a>
     </div>
  <div>
