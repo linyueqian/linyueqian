@@ -23,6 +23,6 @@ Here are some ideas to get you started:
     </div>
  <div>
         <a href="https://open.spotify.com/user/31rjeh2d537ek2rx3udbc46akz6q">
-        <img style="align:center" src="https://spotify-recently-played-readme.vercel.app/api?user=31rjeh2d537ek2rx3udbc46akz6q" />
+        <img style="align:center" src="https://spotify-recently-played-readme.vercel.app/api?user=31rjeh2d537ek2rx3udbc46akz6q&count=6"/>
         </a>
     </div>
