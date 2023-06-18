@@ -3,7 +3,7 @@
 Hello! I am Max Yueqian Lin, a junior student at [Duke Kunshan University](https://dukekunshan.edu.cn/).
 
 ### Links
-- [Personal Website](www.yueqianlin.com)
+- [Personal Website](https://www.yueqianlin.com)
 <!--
 **linyueqian/linyueqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
