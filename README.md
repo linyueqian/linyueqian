@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Hello! I am Max Yueqian Lin, a junior student at [Duke Kunshan University](https://dukekunshan.edu.cn/). My major is Data Science. I am currently a research assistant in the Speech and Multimodal Intelligent Information Processing [(SMIIP) Lab](https://sites.duke.edu/dkusmiip/), supervised by [Professor Ming Li, Ph.D](https://scholars.duke.edu/person/MingLi).
+Hello! I am Max Yueqian Lin, a junior student at [Duke Kunshan University](https://dukekunshan.edu.cn/).
 
-My research interests include speech synthesis, speech recognition, and machine learning. Now I am working on projects related to voice conversion and speech synthesis.
+### Links
+- [Personal Website](www.yueqianlin.com)
 <!--
 **linyueqian/linyueqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
