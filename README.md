@@ -4,6 +4,8 @@ Hello! I am Max Yueqian Lin, a rising senior student at [Duke Kunshan University
 
 ### Links
 - [Personal Website](https://www.yueqianlin.com)
+
+![](https://komarev.com/ghpvc/?username=linyueqian&color=blueviolet&style=for-the-badge)
 <!--
 **linyueqian/linyueqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
