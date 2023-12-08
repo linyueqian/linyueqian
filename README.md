@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I am Max Yueqian Lin, a rising senior student at [Duke Kunshan University](https://dukekunshan.edu.cn/).
+Hello! I am Max Yueqian Lin, a senior student at [Duke Kunshan University](https://dukekunshan.edu.cn/).
 
 ### Links
 - [Personal Website](https://www.yueqianlin.com)
