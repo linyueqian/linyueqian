@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hello! I am Max Yueqian Lin, a senior student at [Duke Kunshan University](https://dukekunshan.edu.cn/).
+Hello! I am Max Yueqian Lin, a senior at [Duke Kunshan University](https://dukekunshan.edu.cn/). I am actively seeking Fall 2024 Ph.D. positions. Let's connect!
 
 ### Links
-- [Personal Website](https://www.yueqianlin.com)
+- [Personal Website](https://yueqianlin.com)
 
 ![](https://komarev.com/ghpvc/?username=linyueqian&color=blueviolet&style=for-the-badge)
 <!--
