@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I am Max Yueqian Lin, a senior at [Duke Kunshan University](https://dukekunshan.edu.cn/). I am actively seeking Fall 2024 Ph.D. positions. Let's connect!
+Hello! I am Max Yueqian Lin, a senior at [Duke Kunshan University](https://dukekunshan.edu.cn/). I will join Duke ECE as a PhD student this Fall.
 
 ### Links
 - [Personal Website](https://yueqianlin.com)
