@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I am Max Yueqian Lin, a senior at [Duke Kunshan University](https://dukekunshan.edu.cn/). I will join Duke ECE as a PhD student this Fall.
+Hello! I am Yueqian Lin, a PhD student at [Duke University](https://duke.edu/).
 
 ### Links
 - [Personal Website](https://yueqianlin.com)
